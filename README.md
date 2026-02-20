@@ -16,7 +16,7 @@ Styling: Bootstrap
 ✅ 4. Project Setup
 🔧 Getting Started
 Clone the repository
-git clone https://github.com/PriyaBalireddy/flightfinder-navigating-your-air-travel-options
+git clone https://github.com/Chandrika2710/Flight-Finder
 
 cd SkyDreams---Flight-Finder
 
