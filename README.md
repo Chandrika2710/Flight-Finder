@@ -1,5 +1,7 @@
 ✈️ FlightFinder - Navigating Your Air Travel Options
+
 ✅ 1. Project Title
+
 Flight Finder
 
 Fly beyond limits with Flight Finder — a full-stack MERN flight booking platform.
