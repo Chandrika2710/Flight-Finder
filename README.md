@@ -12,15 +12,21 @@ Includes Admin, Flight Operator, and User roles with real-time booking managemen
 Flight Finder ✈️ is designed to simplify flight bookings by offering real-time seat management and role-based access. It supports one-way and return trip bookings, operator/admin controls, and a streamlined UI for better user experience.
 
 ✅ 3. Tech Stack
+
 Frontend: React.js
+
 Backend: Node.js + Express.js
+
 Database: MongoDB (Local)
+
 Styling: Bootstrap
 
 ✅ 4. Project Setup
 
 🔧 Getting Started
+
 Clone the repository
+
 git clone https://github.com/Chandrika2710/Flight-Finder
 
 cd SkyDreams---Flight-Finder
